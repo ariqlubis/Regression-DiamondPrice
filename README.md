@@ -18,6 +18,7 @@ Prediksi harga merupakan tujuannya. Harga merupakan variabel kontinu, oleh karen
 Untuk kasus regresi, beberapa metrik yang biasanya digunakan adalah Mean Squared Error (MSE) atau Root Mean Square Error (RMSE).
 
 # Dataset
+Link Dataset: https://raw.githubusercontent.com/tidyverse/ggplot2/main/data-raw/diamonds.csv
 ![image](https://github.com/ariqlubis/Regression-DiamondPrice/assets/88980651/f6413cfb-6f9c-4ff2-9c6c-7079bb56dd89)
 
 # Model
